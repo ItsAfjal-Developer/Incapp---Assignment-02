@@ -23,4 +23,4 @@ Below is a Preview of **Assignment 2**, Showcasing the Layout and Styling implem
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
 
-<img src="./images/Assignment-2.png" alt="Assignment 9 Preview" width="100%" />
+<img src="./images/Assignment-2.png" alt="Assignment 2 Preview" width="100%" />

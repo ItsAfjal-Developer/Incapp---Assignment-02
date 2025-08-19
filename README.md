@@ -1,6 +1,6 @@
 # Incapp - Assignment 02
 
-This is the **2<sup>nd</sup> Assignment Project** from **Incapp Institute** ,
+This is the **02<sup>nd</sup> Assignment Project** from **Incapp Institute** ,
 Created as part of the Frontend Development Training. 
 The Assignment Demonstrates Practical use of **HTML** and **CSS** to Create a Visually 
 Appealing and Responsive Layout.

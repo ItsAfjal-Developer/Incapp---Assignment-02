@@ -1,4 +1,4 @@
-# Incapp - Assignment 02
+# Incapp - Assignment 02<sup>nd</sup>
 
 This is the **02<sup>nd</sup> Assignment Project** from **Incapp Institute** ,
 Created as part of the Frontend Development Training. 
@@ -22,7 +22,7 @@ Appealing and Responsive Layout.
 
 ## Screenshots
 
-Below is a Preview of **Assignment 02** , Showcasing the Layout and Styling implemented Using pure HTML and CSS. 
+Below is a Preview of **Assignment 02<sup>nd</sup>** , Showcasing the Layout and Styling implemented Using pure HTML and CSS. 
 The Design focuses on Clean Structure , Responsiveness and Modern Styling.
 
 

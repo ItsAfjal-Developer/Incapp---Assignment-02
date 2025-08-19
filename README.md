@@ -1,26 +1,29 @@
-# Incapp - Assignment-2
+# Incapp - Assignment 2
 
-This is the **2nd Assignment Project** from **Incapp Institute**, Created as part of the Frontend Development Training. The Assignment Demonstrates Practical use of **HTML** and **CSS** to Create a Visually Appealing and Responsive Layout.
+This is the **2nd Assignment Project** from **Incapp Institute** ,
+Created as part of the Frontend Development Training. 
+The Assignment Demonstrates Practical use of **HTML** and **CSS** to Create a Visually 
+Appealing and Responsive Layout.
 
 
 ## Features
 
-- Fully responsive layout
-- Use of modern CSS styling
-- Clean and semantic HTML structure
-- Beginner-friendly and well-organized code
+- Fully Responsive Layout
+- Use of modern CSS Styling
+- Clean and Semantic HTML structure
+- Beginner-friendly and Well-Organized Code
 
 
 ## Tech Stack
 
-**Client:** HTML5, CSS3  
-**Server:** None (Static Site)
+**Client -** HTML5 & CSS3  
+**Server -** None (Static Site)
 
 
 ## Screenshots
 
 Below is a Preview of **Assignment 2**, Showcasing the Layout and Styling implemented Using pure HTML and CSS. 
-The Design focuses on Clean Structure, Responsiveness and Modern Styling.
+The Design focuses on Clean Structure , Responsiveness and Modern Styling.
 
 
 <img src="./images/Assignment-2.png" alt="Assignment 2 Preview" width="100%" />
